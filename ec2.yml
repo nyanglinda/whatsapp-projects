@@ -1,5 +1,6 @@
 ec2
-# ami
+#  ami
 # create keypair
 # add security group
 # role
+# add ebs volume to 100 GB
