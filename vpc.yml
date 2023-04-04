@@ -1,0 +1,4 @@
+#create vpc
+#create subnets and rout tables
+#create IGW and attach to vpc
+#create security groups
